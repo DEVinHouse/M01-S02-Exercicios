@@ -1,7 +1,6 @@
 var soma = 0
 
 do {
-    
     var numero = parseInt(prompt('Digite um numero: '));
 
     if ( isNaN(numero) || numero === -1 ){
